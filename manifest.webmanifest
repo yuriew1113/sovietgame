@@ -1,0 +1,19 @@
+{
+  "name": "苏联的游戏：七日之盟",
+  "short_name": "苏联的游戏",
+  "description": "架空历史互动策略游戏",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111613",
+  "theme_color": "#151a17",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
